@@ -5,7 +5,7 @@
     display: inline-block;
     margin: 10px;
     border-radius: 5px;
-    box-shadow: 0px 4px 8px black;
+    box-shadow: 4px 4px 8px black;
     transition: 0.25s;
     background-color: white;
 }
@@ -18,7 +18,7 @@ img{
     font-family: 'Courier New', Courier, monospace;
 }
 .card:hover{
-    box-shadow: 0px 8px 16px goldenrod;
+    box-shadow: 8px 8px 16px goldenrod;
 }
 body{
     background-image: url("bg.jpg");
